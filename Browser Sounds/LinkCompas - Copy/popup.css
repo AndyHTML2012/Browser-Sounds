@@ -1,0 +1,57 @@
+body{  
+   min-width: 200px;  
+   text-align: center;  
+   font-family: "Comic Sans MS", cursive, sans-serif;  
+   }  
+.button {  
+   background-color: #4CAF50;  
+   border: none;  
+   color: rgb(183, 240, 234);  
+   padding: 5px 14px;  
+   text-align: center;  
+   text-decoration: none;  
+   display: inline-block;  
+   font-size: 15px;  
+   margin: 4px 2px;  
+   transition-duration: 0.4s;  
+   cursor: pointer;  
+   }  
+.button2 {  
+   background-color: green;  
+   color: black;  
+   border: 2px solid #008CBA;  
+   }  
+.button3 {  
+   background-color: orange;  
+   color: black;  
+   border: 2px solid #008CBA;  
+   }  
+.button3:hover {  
+   background-color: yellow;  
+   color: black;  
+   border: 2px solid #008CBA;  
+   }  
+.button2:hover {  
+   background-color: #008CBA;  
+   color: white;  
+   }  
+.button4 {  
+   background-color: light green;  
+   color: black;  
+   border: 2px solid #008CBA;  
+   }
+.button4:hover {  
+   background-color: green;  
+   color: black;  
+   border: 2px solid #008CBA;  
+   }
+.button5 {  
+   background-color: red;  
+   color: black;  
+   border: 2px solid #008CBA;  
+   }
+.button5:hover {  
+   background-color: green;  
+   color: black;  
+   border: 2px solid #008CBA;  
+   }  
