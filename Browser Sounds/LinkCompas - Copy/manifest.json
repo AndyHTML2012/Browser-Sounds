@@ -1,11 +1,16 @@
 {
     "manifest_version": 2,
     "name": "Browser Sounds",
-    "description": "A button panel consisting of different sound effects to use",
+    "description": "A button panel consisting of different sound effects to use. Fun for classes that keep cameras off",
+    "icons": {
+        "128":"audio/minimalspeakericon.png"
+    },
     "version": "1.1.0",
+
     "browser_action":{
-        "default_icon": "images/minimal-speaker-icon-2.png",
+        "default_icon": "audio/minimalspeakericon.png",
         "default_popup": "popup.html"
     },
+
     "permissions": ["activeTab"]
 }
