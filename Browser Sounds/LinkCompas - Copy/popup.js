@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', function() {
         chrome.tabs.getSelected(null, function(tab) {  
             d = document;  
             // the link you want to have open once button is clicked
-            window.open('images/Crickets.mp3', 'blank');  
+            window.open('audio/Crickets.mp3', 'blank');  
         });  
     }, false);  
 }, false);  
